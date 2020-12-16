@@ -1,4 +1,4 @@
-# 8770_Text_Analytics
+# Text_Analytics
 # Some notebooks for school projects and personal learning
 1. named entity recognition
 2. markov chain text generator
